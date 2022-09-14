@@ -5,5 +5,6 @@
 * 3-islower.c - Function that checks for lowercase character.
 * 4-isalpha.c - Function that checks for alphabetic character.
 * 5-sign.c - Function that prints the sign of a number.
+* 6-abs.c - Function that computes the absolute value of an integer.
 
 
