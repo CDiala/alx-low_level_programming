@@ -20,7 +20,7 @@ if (y != 0)
 _putchar(' ');
 }
 _putchar(z + '0');
-if (y== 9)
+if (y == 9)
 {
 continue;
 }
