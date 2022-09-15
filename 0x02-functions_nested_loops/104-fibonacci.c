@@ -9,7 +9,7 @@
 int main(void)
 {
 unsigned long a = 0, b = 1, c = 0, count = 0;
-char str[] = “”;
+char str[200] = “”;
 strcat(str, a);
 strcat(str, b);
 while (count <= 98)
