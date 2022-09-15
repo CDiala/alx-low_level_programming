@@ -9,9 +9,7 @@
 int main(void)
 {
 unsigned long a = 0, b = 1, c = 0, count = 0;
-char str[200] = “”;
-strcat(str, a);
-strcat(str, b);
+char str[200] = “0, 1”;
 while (count <= 98)
 {
 c = a + b;
