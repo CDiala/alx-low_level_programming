@@ -9,12 +9,15 @@
 int main(void)
 {
 unsigned long a = 0, b = 1, c = 0, count = 0;
-char str[] = “0, 1”;
+char str[] = “”;
+strcat(str, a);
+strcat(str, b);
 while (count <= 98)
 {
 c = a + b;
 a = b;
 b = c;
+strcat(str, (",");
 strcat(str, ("%s\n", c));
 count += 1;
 }
