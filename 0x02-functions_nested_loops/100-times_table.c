@@ -35,14 +35,16 @@ _putchar(' ');
 _putchar(' ');
 _putchar(' ');
 _putchar(n + '0');
-} else if (n > 9 && n <= 99)
+} 
+else if (n > 9 && n <= 99)
 {
 _putchar(',');
 _putchar(' ');
 _putchar(' ');
 _putchar(n / 10 + '0');
 _putchar(n % 10 + '0');
-} else
+} 
+else
 {
 _putchar(',');
 _putchar(' ');
