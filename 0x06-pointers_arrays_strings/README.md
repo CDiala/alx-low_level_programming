@@ -3,3 +3,5 @@
 * 1-strncat.c - Function that concatenates two strings.
 * 2-strncpy.c - Function that copies a string.
 * 3-strcmp.c - Function that compares two strings.
+* 4-rev_array.c - Function that reverses the content of an array of integers.
+
